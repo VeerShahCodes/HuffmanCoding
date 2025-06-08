@@ -91,10 +91,10 @@ namespace HuffmanCoding
         }
         static void Main(string[] args)
         {
-            HuffmanCoding.VariableLengthEncode("hello world");
-            HuffmanCoding.Write("hello world");
+            HuffmanCoding.VariableLengthEncode("alkjadsl;fjaas;dlfkjasdf;lkj");
+            HuffmanCoding.Write("alkjadsl;fjaas;dlfkjasdf;lkj");
             Console.WriteLine();
-            Console.WriteLine(HuffmanCoding.VariableLengthDecode("1100010111011110000101001100100010110000101100100010110000101100"));
+            Console.WriteLine(HuffmanCoding.VariableLengthDecode("111101000110111100011101010001110111111011010100101001000110111011100001010101000110"));
         }
     }
 }
