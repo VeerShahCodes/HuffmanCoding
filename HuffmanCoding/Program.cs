@@ -89,6 +89,7 @@ namespace HuffmanCoding
 
 
         }
+        
         static void Main(string[] args)
         {
             HuffmanCoding.VariableLengthEncode("alkjadsl;fjaas;dlfkjasdf;lkj");
